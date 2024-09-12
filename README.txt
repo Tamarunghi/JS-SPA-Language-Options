@@ -1,0 +1,1 @@
+Practicing SPA &  adding language options
